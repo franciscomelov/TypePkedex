@@ -1,0 +1,2 @@
+# TypePokedex
+HTML - CSS - TypeScript
